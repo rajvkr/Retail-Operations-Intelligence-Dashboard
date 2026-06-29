@@ -59,13 +59,13 @@ Transform retail transactional data into an interactive analytics solution that 
 
 ## 📸 Dashboard Preview
 
-![Dashboard 1](Images/Retail1.png)
-![Dashboard 2](Images/Retail2.png)
-![Dashboard 3](Images/Retail3.png)
-![Dashboard 4](Images/Retail4.png)
-![Dashboard 5](Images/Retail5.png)
-![Dashboard 6](Images/Retail6.png)
-![Dashboard 7](Images/Retail7.png)
-![Dashboard 8](Images/Retail8.png)
-![Dashboard 9](Images/Retail9.png)
-![Dashboard 10](Images/Retail91.png)
+![Dashboard 1](Images/Retail1.PNG)
+![Dashboard 2](Images/Retail2.PNG)
+![Dashboard 3](Images/Retail3.PNG)
+![Dashboard 4](Images/Retail4.PNG)
+![Dashboard 5](Images/Retail5.PNG)
+![Dashboard 6](Images/Retail6.PNG)
+![Dashboard 7](Images/Retail7.PNG)
+![Dashboard 8](Images/Retail8.PNG)
+![Dashboard 9](Images/Retail9.PNG)
+![Dashboard 10](Images/Retail91.PNG)
