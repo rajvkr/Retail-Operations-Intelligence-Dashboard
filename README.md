@@ -1,6 +1,6 @@
 # 🛒 Retail Operations Intelligence Dashboard
 
-> **Interactive retail analytics dashboard built with Python, Dash, Plotly, and statistical modeling for sales, inventory, profitability, and waste insights.**
+**Interactive retail analytics dashboard built with Python, Dash, Plotly, and statistical modeling for sales, inventory, profitability, and waste insights.**
 
 ---
 
